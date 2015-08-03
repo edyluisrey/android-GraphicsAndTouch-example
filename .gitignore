@@ -1,0 +1,17 @@
+# built application files
+*.apk
+*.ap_
+
+# generated files
+bin/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Eclipse project files
+.settings/
+.classpath
+.project
+project.properties
+
+
